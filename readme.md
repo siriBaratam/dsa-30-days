@@ -5,3 +5,11 @@
     - https://leetcode.com/problems/concatenation-of-array/description/
  - 3 leetcode 283
     - https://leetcode.com/problems/move-zeroes/description/
+
+**Day 2 DSA Challenge**
+ - 1 leetcode 217
+    - https://leetcode.com/problems/contains-duplicate/description/
+ - 2 leetcode 268
+    - https://leetcode.com/problems/missing-number/description/
+ - 3 leetcode 387
+    - https://leetcode.com/problems/first-unique-character-in-a-string/description/
