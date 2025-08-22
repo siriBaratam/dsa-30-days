@@ -13,3 +13,11 @@
     - https://leetcode.com/problems/missing-number/description/
  - 3 leetcode 387
     - https://leetcode.com/problems/first-unique-character-in-a-string/description/
+
+**Day 3 DSA Challenge**
+ - 1 leetcode 9
+   - https://leetcode.com/problems/palindrome-number/description/
+ - 2 leetcode 13
+   - 
+ - 3 leetcode 58
+   - 
