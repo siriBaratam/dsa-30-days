@@ -16,8 +16,8 @@
 
 **Day 3 DSA Challenge**
  - 1 leetcode 9
-   - https://leetcode.com/problems/palindrome-number/description/
+    - https://leetcode.com/problems/palindrome-number/description/
  - 2 leetcode 13
-   - 
+    - https://leetcode.com/problems/roman-to-integer/description/
  - 3 leetcode 58
-   - https://leetcode.com/problems/length-of-last-word/description/
+    - https://leetcode.com/problems/length-of-last-word/description/
