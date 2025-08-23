@@ -24,7 +24,7 @@
 
 **Day 4 DSA Challenge**
  - 1 leetcode 136
-    - 
+    - https://leetcode.com/problems/single-number/description/
  - 2 leetcode 88
     - 
  - 3 leetcode 350
