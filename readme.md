@@ -21,3 +21,11 @@
     - https://leetcode.com/problems/roman-to-integer/description/
  - 3 leetcode 58
     - https://leetcode.com/problems/length-of-last-word/description/
+
+**Day 4 DSA Challenge**
+ - 1 leetcode 136
+    - 
+ - 2 leetcode 88
+    - 
+ - 3 leetcode 350
+    - 
