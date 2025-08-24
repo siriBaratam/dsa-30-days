@@ -26,6 +26,6 @@
  - 1 leetcode 136
     - https://leetcode.com/problems/single-number/description/
  - 2 leetcode 88
-    - 
+    - https://leetcode.com/problems/merge-sorted-array/description/
  - 3 leetcode 350
-    - 
+    - https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
