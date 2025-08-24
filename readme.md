@@ -20,5 +20,5 @@
 
  **Day 5 DSA Challenge**
  - [1 leetcode ***4***]()
- - [2 leetcode ***202***]()
+ - [2 leetcode ***202***](https://leetcode.com/problems/happy-number/description/) happy-number
  - [3 leetcode ***191***]()
