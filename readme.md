@@ -24,6 +24,6 @@
  - [3 leetcode ***191***](https://leetcode.com/problems/number-of-1-bits/description/) number-of-1-bits
 
  **Day 6 DSA Challenge**
- - [1 leetcode ***15***]()
- - [1 leetcode ***128***]()
- - [1 leetcode ***75***]()
+ - [1 leetcode ***15***](https://leetcode.com/problems/3sum/description/) 3sum
+ - [1 leetcode ***128***](https://leetcode.com/problems/longest-consecutive-sequence/description/) longest-consecutive-sequence
+ - [1 leetcode ***75***](https://leetcode.com/problems/sort-colors/description/) sort-colors
